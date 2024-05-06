@@ -1,6 +1,6 @@
-## Register No: 212222110032
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+### Register No: 212222110032
+### Name: Prabha C
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
